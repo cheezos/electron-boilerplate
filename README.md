@@ -11,4 +11,4 @@ Run these commands in order:
 
 ### Preview
 
-![Preview](https://github.com/cheezos/electron-boilerplate/blob/master/preview.jpg)
+![Preview](https://github.com/cheezos/electron-boilerplate/blob/main/preview.jpg)
