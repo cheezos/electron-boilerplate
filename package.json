@@ -4,5 +4,8 @@
 	"main": "src/main.js",
 	"scripts": {
 		"start": "electron ."
+	},
+	"devDependencies": {
+		"electron": "^19.0.4"
 	}
 }
